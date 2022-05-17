@@ -6,7 +6,7 @@ much people to have a need for it. This program uses the old webbrowser which ut
 --------------
 I have decided to publish this program on github just in the event it helps someone else in creating their own webbrowser application or help understand how the header files should be formatted.
 
-This program also shows examples of using background workers to cancel tasks or run them simutaneously. In addition, system commands are used to open other web browsers like brave/edge/or chrome. Ways to convert the Standard String to a System::String to use in this winform are present.
+This program also shows examples of using background workers to cancel tasks or run them simutaneously. In addition, system commands are used to open other web browsers like brave/edge/or chrome. Ways to convert the Standard String to a System::String to use in this form are present.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/100814612/168711108-53be1610-70ee-4458-93bf-226b3534413f.png" width = "700", height = "449"><img>
