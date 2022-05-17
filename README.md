@@ -1,6 +1,6 @@
 # Webbrowser C++
 A webbrowser program made in C++. Created by Kttra. This program has a very specific use case, so I do not expect
-much people to have a need for it.
+much people to have a need for it. This program uses the old webbrowser which utilizes internet explorer, so it is really outdated.
 
 **Main Takeaway**
 --------------
